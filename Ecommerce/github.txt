@@ -1,0 +1,28 @@
+# E-Commerce Web Application
+
+A modern e-commerce web application built for seamless online shopping, featuring product browsing, a dynamic shopping cart, and a responsive user interface.
+
+## 🚀 Features
+
+* **Product Catalog:** Browse through a variety of products with detailed views.
+* **Shopping Cart:** Add, remove, and update items in real-time.
+* **Responsive Design:** Optimized for mobile, tablet, and desktop screens.
+* **User Authentication:** Secure sign-up and login functionality.
+
+## 🛠️ Tech Stack
+
+* **Frontend:** HTML5, CSS3, JavaScript (ES6+)
+* **Styling:** CSS Flexbox & Grid
+* **Version Control:** Git & GitHub
+
+## 📂 Project Structure
+
+```text
+Ecommerce2/
+│
+├── Ecommerce/
+│   ├── index.html       # Main landing page
+│   ├── style.css        # Stylesheet
+│   └── script.js        # Core JavaScript functionality
+│
+└── README.md            # Project documentation
